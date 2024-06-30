@@ -1,5 +1,3 @@
-Here is a suggested bio for your LinkedIn profile as a 3rd-year biomedical engineering student, Pooja Murugesan:
-
 Pooja Murugesan 3rd Year Biomedical Engineering Student
 
 As a passionate and driven 3rd-year biomedical engineering student, I am dedicated to leveraging cutting-edge technologies to advance the field of healthcare. With a diverse skillset spanning quantum computing, programming (C, Java), medical imaging systems, 3D printing, web development (HTML), and nanotechnology, I am well-equipped to tackle complex challenges.
